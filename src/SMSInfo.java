@@ -2,6 +2,6 @@
 public class SMSInfo {
 
 	public static void main(){
-		System.out.print("fixbug");
+		System.out.print("fixbug1");
 	}
 }
